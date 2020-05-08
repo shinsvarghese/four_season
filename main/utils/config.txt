@@ -1,0 +1,1 @@
+--uri mongodb://ozd0127u:27018 --d Labels --c Shape_Latest_7_Classes --proc_type chips --slope 0

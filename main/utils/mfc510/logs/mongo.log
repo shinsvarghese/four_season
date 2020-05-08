@@ -1,0 +1,15 @@
+2019-09-17 13:39:35,415; run_chips_mfc510.py; INFO; params: coll: Shape_Latest_7_Classes_BackUp, slope: 0, db: Labels, frequency: 1, uv_level: 3, version: 2, is_licensed: 0, dll_path: D:\Chips_510\DLDataTools-master\mongodb_pipeline\mfc510\dll\free\CHIPS510.dll, gridfs: image_data, y_level: 2, uri: mongodb://ozd0127u:password8processes: 0
+2019-09-17 13:39:35,648; run_chips_mfc510.py; INFO; querry: {'sourcefile': 'Continuous_2012.09.14_at_18.17.56.rec', 'image.raw': {'$exists': 1}}
+2019-09-17 13:39:35,919; run_chips_mfc510.py; INFO; docs to process: 10
+2019-09-17 13:51:47,152; run_chips_mfc510.py; INFO; params: slope: 0, y_level: 2, db: Labels, dll_path: D:\Chips_510\DLDataTools-master\mongodb_pipeline\mfc510\dll\free\CHIPS510.dll, coll: Shape_Latest_7_Classes_BackUp, processes: 0, uri: mongodb://ozd0127u:password8uv_level: 3, is_licensed: 0, frequency: 1, gridfs: image_data, version: 2
+2019-09-17 13:51:47,159; run_chips_mfc510.py; INFO; querry: {'sourcefile': 'Continuous_2012.09.14_at_18.17.56.rec', 'image.raw': {'$exists': 1}}
+2019-09-17 13:51:47,159; run_chips_mfc510.py; INFO; docs to process: 10
+2019-09-17 13:56:02,866; run_chips_mfc510.py; INFO; params: uri: mongodb://ozd0127u:password8coll: Shape_Latest_7_Classes_BackUp, dll_path: D:\Chips_510\DLDataTools-master\mongodb_pipeline\mfc510\dll\free\CHIPS510.dll, version: 2, gridfs: image_data, db: Labels, uv_level: 3, slope: 0, frequency: 1, processes: 0, y_level: 2, is_licensed: 0
+2019-09-17 13:56:02,868; run_chips_mfc510.py; INFO; querry: {'image.raw': {'$exists': 1}, 'sourcefile': 'Continuous_2012.09.14_at_18.17.56.rec'}
+2019-09-17 13:56:02,868; run_chips_mfc510.py; INFO; docs to process: 10
+2019-09-30 17:10:13,482; run_chips_mfc510.py; INFO; params: processes: 0, uri: mongodb://ozd0127u:password8dll_path: D:\Chips_510\DLDataTools-master\mongodb_pipeline\mfc510\dll\free\CHIPS510.dll, coll: Shape_Latest_7_Classes_BackUp, frequency: 1, slope: 0, uv_level: 3, is_licensed: 0, version: 2, db: Labels, y_level: 2, gridfs: image_data
+2019-09-30 17:10:13,505; run_chips_mfc510.py; INFO; querry: {'sourcefile': 'Continuous_2012.09.14_at_18.17.56.rec', 'image.raw': {'$exists': 1}}
+2019-09-30 17:10:13,505; run_chips_mfc510.py; INFO; docs to process: 8381
+2019-09-30 17:13:17,050; run_chips_mfc510.py; INFO; params: is_licensed: 0, version: 2, gridfs: image_data, slope: 0, db: Labels, dll_path: D:\Chips_510\DLDataTools-master\mongodb_pipeline\mfc510\dll\free\CHIPS510.dll, uri: mongodb://ozd0127u:password8coll: Shape_Latest_7_Classes_BackUp, uv_level: 3, frequency: 1, y_level: 2, processes: 2
+2019-09-30 17:13:17,052; run_chips_mfc510.py; INFO; querry: {'image.raw': {'$exists': 1}, 'sourcefile': 'Continuous_2012.09.14_at_18.17.56.rec'}
+2019-09-30 17:13:17,053; run_chips_mfc510.py; INFO; docs to process: 8381
